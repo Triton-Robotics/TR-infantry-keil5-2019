@@ -1,0 +1,8 @@
+bsp_can.c:46:6:my_can_filter_init_recv_all	48	static
+bsp_can.c:126:6:get_yaw_data	0	static
+bsp_can.c:138:6:get_moto_measure	16	static
+bsp_can.c:87:6:HAL_CAN_RxCpltCallback	16	static
+bsp_can.c:172:6:get_moto_offset	0	static
+bsp_can.c:182:6:get_total_angle	8	static
+bsp_can.c:202:6:set_moto_current	16	static
+bsp_can.c:220:6:send_gimbal_cur	16	static

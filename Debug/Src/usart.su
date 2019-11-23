@@ -1,0 +1,8 @@
+usart.c:59:6:MX_USART1_UART_Init	16	static
+usart.c:80:6:MX_USART6_UART_Init	8	static
+usart.c:98:6:HAL_UART_MspInit	48	static
+usart.c:175:6:HAL_UART_MspDeInit	8	static
+usart.c:232:19:UART_Receive_DMA_NoIT	24	static
+usart.c:286:19:HAL_UART_Receive_IT_IDLE	4	static
+usart.c:296:6:USART6_IRQHandler	0	static
+usart.c:298:6:HAL_UART_IDLE_IRQHandler	4	static

@@ -1,0 +1,4 @@
+kalman_filter.c:20:6:kalman1_init	0	static
+kalman_filter.c:40:7:kalman1_filter	0	static
+kalman_filter.c:68:6:kalman2_init	8	static
+kalman_filter.c:103:7:kalman2_filter	8	static

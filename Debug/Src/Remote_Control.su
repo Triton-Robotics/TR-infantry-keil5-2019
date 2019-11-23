@@ -1,0 +1,10 @@
+Remote_Control.c:26:6:Callback_RC_Handle	16	static
+Remote_Control.c:69:5:is_w_pressed	0	static
+Remote_Control.c:77:5:is_a_pressed	0	static
+Remote_Control.c:85:5:is_s_pressed	0	static
+Remote_Control.c:94:5:is_d_pressed	0	static
+Remote_Control.c:102:5:is_q_pressed	0	static
+Remote_Control.c:111:5:is_e_pressed	0	static
+Remote_Control.c:120:5:is_mouse_moved	0	static
+Remote_Control.c:128:7:calculate_mouse_x_speed	0	static
+Remote_Control.c:146:6:HAL_TIM_IC_CaptureCallback	16	static
