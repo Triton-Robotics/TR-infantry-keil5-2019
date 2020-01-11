@@ -9,10 +9,10 @@ demo\gpio.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 demo\gpio.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h
 demo\gpio.o: ../Drivers/CMSIS/Include/core_cm4.h
 demo\gpio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-demo\gpio.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+demo\gpio.o: ../Drivers/CMSIS/Include/cmsis_version.h
+demo\gpio.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 demo\gpio.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
-demo\gpio.o: ../Drivers/CMSIS/Include/core_cmFunc.h
-demo\gpio.o: ../Drivers/CMSIS/Include/core_cmSimd.h
+demo\gpio.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 demo\gpio.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 demo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 demo\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h

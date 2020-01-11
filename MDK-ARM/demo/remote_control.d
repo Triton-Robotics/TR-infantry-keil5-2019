@@ -9,10 +9,10 @@ demo\remote_control.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 demo\remote_control.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h
 demo\remote_control.o: ../Drivers/CMSIS/Include/core_cm4.h
 demo\remote_control.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-demo\remote_control.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+demo\remote_control.o: ../Drivers/CMSIS/Include/cmsis_version.h
+demo\remote_control.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 demo\remote_control.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
-demo\remote_control.o: ../Drivers/CMSIS/Include/core_cmFunc.h
-demo\remote_control.o: ../Drivers/CMSIS/Include/core_cmSimd.h
+demo\remote_control.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 demo\remote_control.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 demo\remote_control.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 demo\remote_control.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
